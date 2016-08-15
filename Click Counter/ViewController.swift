@@ -40,7 +40,7 @@ class ViewController: UIViewController {
     @IBAction func increaseCount(sender: UIButton) {
         score += 1
         print(score)
-//        number += number
+//        number += number tes tes 
         numerCount.text = String(score)
     }
 
